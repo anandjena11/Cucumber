@@ -34,6 +34,7 @@ public class LoginPage {
 	{
 		email.clear();
 		email.sendKeys(emailAdd);
+		//testing
 	}
 
 	public void enterPassword(String pwd)
